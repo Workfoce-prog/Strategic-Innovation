@@ -1,0 +1,16 @@
+student_id,GPA,Attendance Rate,Engagement Score,Financial Risk Flag,First-Gen Flag
+S001,1.88,81,99,True,False
+S002,2.83,88,89,True,False
+S003,3.98,79,57,True,False
+S004,1.93,92,80,True,False
+S005,3.97,85,85,True,True
+S006,2.62,74,52,True,True
+S007,3.56,89,93,True,True
+S008,3.5,89,69,False,False
+S009,3.4,98,61,True,True
+S010,2.13,99,56,False,True
+S011,2.03,70,92,False,False
+S012,2.27,99,54,True,False
+S013,3.85,72,52,False,False
+S014,1.97,81,84,True,True
+S015,1.8,89,82,False,True

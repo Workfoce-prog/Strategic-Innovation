@@ -1,0 +1,16 @@
+student_id,Academic Progress Score,Attendance Consistency,Financial Risk Flag,Engagement Score,Intent to Return Score,Advisor Touchpoints Score,Housing or Transport Flag
+S001,60,76,True,62,88,48,False
+S002,66,84,False,67,65,46,True
+S003,89,75,True,90,79,65,True
+S004,62,82,True,70,86,76,True
+S005,50,91,False,75,98,83,False
+S006,58,88,True,82,52,63,True
+S007,89,88,False,86,93,88,False
+S008,53,99,True,75,98,56,True
+S009,52,78,False,77,77,99,True
+S010,91,97,False,99,84,97,True
+S011,70,74,False,60,92,95,False
+S012,79,77,False,61,50,75,True
+S013,53,79,True,71,69,56,True
+S014,84,89,True,88,65,54,True
+S015,78,99,True,98,52,42,False

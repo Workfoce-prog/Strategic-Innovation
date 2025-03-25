@@ -1,0 +1,11 @@
+student_id,Credit Completion,GPA,Career Goal Clarity,Skills Match Score,Work-Based Learning,Resume & LinkedIn Status,Soft Skills Score
+S001,0.79,3.39,92,98,False,87,85
+S002,0.84,2.23,63,50,True,84,77
+S003,0.98,3.85,73,63,True,10,72
+S004,0.83,3.9,99,76,True,73,87
+S005,0.8,2.13,86,76,False,78,77
+S006,0.77,2.75,85,84,True,53,80
+S007,0.8,3.28,69,56,True,69,68
+S008,0.72,2.85,76,85,True,63,92
+S009,0.64,2.26,83,70,True,65,79
+S010,0.8,3.45,76,69,False,18,86

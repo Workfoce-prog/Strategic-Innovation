@@ -1,0 +1,11 @@
+unit_id,Avg Response Time,Task Completion Rate,Automation Utilization,System Integration Score,Staff Digital Adoption,Manual Task Ratio
+U01,21,72,26,54,59,54
+U02,26,82,30,87,73,30
+U03,63,73,48,93,54,20
+U04,69,75,64,60,58,35
+U05,49,88,48,95,73,41
+U06,68,88,84,71,64,13
+U07,59,85,20,60,67,10
+U08,64,91,85,50,79,44
+U09,46,82,63,91,79,21
+U10,59,66,43,62,64,24

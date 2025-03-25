@@ -1,0 +1,11 @@
+student_id,Major,Career Goal Overlap,Communication Preference,Support Score,Advisor DEI Experience
+S001,Psychology,75,in-person,3,True
+S002,CS,75,text,2,False
+S003,Psychology,87,email,4,False
+S004,Biology,52,email,1,False
+S005,Biology,60,text,1,False
+S006,CS,62,text,5,False
+S007,CS,53,text,4,False
+S008,CS,99,in-person,2,True
+S009,Psychology,83,email,1,False
+S010,CS,56,text,3,False
